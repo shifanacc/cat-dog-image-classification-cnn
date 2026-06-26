@@ -14,7 +14,7 @@ Image classification is one of the most common applications of Deep Learning in 
 
 Launch Cat and Dog Classifier
 
-(link)
+https://cat-dog-image-classification-cnn-xq4on9e5cfbuwmreixkglh.streamlit.app/
 
 ---
 
@@ -141,5 +141,3 @@ The Streamlit application enables users to:
 - Support multiple image uploads
 
 ---
-
-
