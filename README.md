@@ -47,7 +47,6 @@ https://cat-dog-image-classification-cnn-xq4on9e5cfbuwmreixkglh.streamlit.app/
 
 - Evaluate the trained model
 - Generate Confusion Matrix
-- Generate Classification Report
 - Test with unseen images
 - Save the trained model
 - Load the saved model
@@ -67,7 +66,6 @@ The trained CNN model was evaluated using:
 
 - Accuracy
 - Confusion Matrix
-- Classification Report
 - Unseen Image Predictions
 
 ---
@@ -96,7 +94,7 @@ cat-dog-image-classification-cnn/
 ├── cat_dog_cnn.h5
 ├── requirements.txt
 ├── README.md
-└── sample_images/
+
 ```
 
 ---
